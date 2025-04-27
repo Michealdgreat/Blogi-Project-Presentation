@@ -73,21 +73,21 @@ The use cases were defined in Phase 1 and implemented as follows:
 ### Screenshots
 #### Frontend
 - **Homepage**  
-  <img src="Documentation/blogiscreenshot01.png" alt="Homepage" width="300"/>
+  <img src="Documentation/blogiscreenshot01.png" alt="Homepage" width="700"/>
 - **Articles Page**  
-  <img src="Documentation/blogiscreenshot02.png" alt="Articles" width="300"/>
+  <img src="Documentation/blogiscreenshot02.png" alt="Articles" width="700"/>
 - **Post Page**  
-  <img src="Documentation/blogiscreenshot04.png" alt="Post" width="300"/>
+  <img src="Documentation/blogiscreenshot04.png" alt="Post" width="700"/>
 - **Admin Dashboard**  
-  <img src="Documentation/blogiscreenshot03.png" alt="Admin" width="300"/>
+  <img src="Documentation/blogiscreenshot03.png" alt="Admin" width="700"/>
 ---
 #### Backend
 - **Swagger Endpoints**  
-  <img src="Documentation/apiscreenshot01.png" alt="Endpoints" width="300"/>
+  <img src="Documentation/apiscreenshot01.png" alt="Endpoints" width="700"/>
 - **Swagger Endpoints II**  
-  <img src="Documentation/apiscreenshot02.png" alt="Endpoints Screenshot 2"/>
+  <img src="Documentation/apiscreenshot02.png" alt="Endpoints Screenshot 2" width="700"/>
 - **Schemas**  
-  <img src="Documentation/apiscreenshot03.png" alt="Schemas" width="300"/>
+  <img src="Documentation/apiscreenshot03.png" alt="Schemas"  width="700"/>
 
 ---
 
