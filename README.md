@@ -73,21 +73,21 @@ The use cases were defined in Phase 1 and implemented as follows:
 ### Screenshots
 #### Frontend
 - **Homepage**  
-  <img src="Blogi-Project-Presentation/Documentation/blogiscreenshot01.png" alt="Homepage" width="300"/>
+  <img src="Documentation/blogiscreenshot01.png" alt="Homepage" width="300"/>
 - **Articles Page**  
-  <img src="Blogi-Project-Presentation/Documentation/blogiscreenshot02.png" alt="Articles" width="300"/>
+  <img src="Documentation/blogiscreenshot02.png" alt="Articles" width="300"/>
 - **Post Page**  
-  <img src="Blogi-Project-Presentation/Documentation/blogiscreenshot04.png" alt="Post" width="300"/>
+  <img src="Documentation/blogiscreenshot04.png" alt="Post" width="300"/>
 - **Admin Dashboard**  
-  <img src="Blogi-Project-Presentation/Documentation/blogiscreenshot03.png" alt="Admin" width="300"/>
-
+  <img src="Documentation/blogiscreenshot03.png" alt="Admin" width="300"/>
+---
 #### Backend
 - **Swagger Endpoints**  
-  <img src="Blogi-Project-Presentation/Documentation/apiscreenshot01.png" alt="Endpoints" width="300"/>
+  <img src="Documentation/apiscreenshot01.png" alt="Endpoints" width="300"/>
 - **Swagger Endpoints II**  
-  <img src="Blogi-Project-Presentation/Documentation/apiscreenshot02.png" alt="Endpoints Screenshot 2"/>
+  <img src="Documentation/apiscreenshot02.png" alt="Endpoints Screenshot 2"/>
 - **Schemas**  
-  <img src="Blogi-Project-Presentation/Documentation/apiscreenshot03.png" alt="Schemas" width="300"/>
+  <img src="Documentation/apiscreenshot03.png" alt="Schemas" width="300"/>
 
 ---
 
